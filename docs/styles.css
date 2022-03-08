@@ -141,7 +141,7 @@ footer p{
     box-shadow: 2px 2px 4px rgb(21, 21, 21);
 }
 
-.mv h1, p{
+.mv h1, .mv p{
     color: #00194C;
 }
 
